@@ -52,10 +52,9 @@ sections:
       - title: 3. Attend your huddles
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          On the day of the conference, users will be paired in a sequence of
+          "huddles" (one-on-one virtual meetings) with their matches.
         actions:
           - label: Learn More
             url: /features
