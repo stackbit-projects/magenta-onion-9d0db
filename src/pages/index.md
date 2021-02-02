@@ -34,7 +34,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Step 2) Rank others' profiles
+      - title: 2. Rank others' profiles
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
