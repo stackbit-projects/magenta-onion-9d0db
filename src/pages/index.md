@@ -21,7 +21,7 @@ sections:
       each other. Create a conference and invite members of your community. Then
       the users will follow these steps
     features:
-      - title: The Best Feature of Your Services
+      - title: Step 1) Submit a profile
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
