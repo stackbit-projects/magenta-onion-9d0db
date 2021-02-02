@@ -37,10 +37,11 @@ sections:
       - title: Step 2) Rank others' profiles
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Once everyone has submitted their profiles, users will have the
+          ability to choose who they would like to meet with and to rank those
+          profiles in order. Our algorithm will then create a schedule that
+          optimizes matches according to those rankings.
         actions:
           - label: Learn More
             url: /features
