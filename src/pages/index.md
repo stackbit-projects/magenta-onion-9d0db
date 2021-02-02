@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 2. Rank others' profiles
-        image: images/feature2.png
+        image: images/abstract_ranking.png
         image_alt: App users welcoming a new member
         content: >
           Once everyone has submitted their profiles, users will have the
