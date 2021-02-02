@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 3. Attend your huddles
-        image: images/feature3.png
+        image: images/huddles.png
         image_alt: App user profile preview
         content: >
           On the day of the conference, users will be paired in a sequence of
