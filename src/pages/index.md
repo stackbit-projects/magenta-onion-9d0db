@@ -22,7 +22,7 @@ sections:
       the users will follow these steps
     features:
       - title: 1. Submit a profile
-        image: images/feature1.png
+        image: images/abstract_submission.png
         image_alt: App preview on a phone and tablet
         content: >
           Users will join a conference and submit a profile. This profile will
