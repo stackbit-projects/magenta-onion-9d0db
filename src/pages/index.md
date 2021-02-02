@@ -19,7 +19,7 @@ sections:
     subtitle: >-
       Huddle Fish help members of a community make one-on-one connections with
       each other. Create a conference and invite members of your community. Then
-      the users will:
+      the users will follow these steps
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
