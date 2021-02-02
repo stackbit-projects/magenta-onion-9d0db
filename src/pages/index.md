@@ -17,8 +17,9 @@ sections:
     background: gray
     title: How it works
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Huddle Fish help members of a community make one-on-one connections with
+      each other. Create a conference and invite members of your community. Then
+      the users will:
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
