@@ -24,10 +24,9 @@ sections:
       - title: Step 1) Submit a profile
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Users will join a conference and submit a profile. This profile will
+          be used by other conference participants to learn about your interests
         actions:
           - label: Learn More
             url: /features
